@@ -1,1 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Contrainer</title>
+</head>
+<body>
+    <div style="background-color: aqua; width: 100%;height: 150px;">
+        <div style="background-color:red;width:20%;height: 150px;float: left;"></div>
+        <div style="background-color:blue; width: 60%;height: 150px;float: left"></div>
+        <div style="background-color:blueviolet;width: 20%;height: 150px;float: left;"></div>
+        </div>
+         <div style="background-color: brown;width: 100%;height: 150px;">
+           <div style="background-color: blanchedalmond;width: 50%;height: 150px;">
+
+           </div>
+           <div style="background-color: darkorchid;width: 50%;height: 150px;float: left;"></div>
+            <div style="background-color: pink;width: 50%;height: 150px;float: left;"></div>
+
+            </div>
+
+           </div>
+        </div>
+    </div>
+</body>
 </html>
